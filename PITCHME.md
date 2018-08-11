@@ -11,11 +11,12 @@
 ---
 
 ## MOTIVADORES DO ASSESSMENT NO SAP BW
-
-- @fa[star](Validar arquitetura e melhores práticas.)
-- @fa[clock](Problemas com a **PERFORMANCE** dos indicadores desenvolvidos.)
-- @fa[frown](**INSATISFAÇÃO** DA ÁREA DE NEGÓCIO.)
-
+<br>
+- @fa[star](Validar arquitetura e melhores práticas)
+- @fa[clock](Problemas com a **PERFORMANCE** dos indicadores desenvolvidos)
+- @fa[frown](**INSATISFAÇÃO** DA ÁREA DE NEGÓCIO)
+<br>
+<span class="fa-byline">With just one line of custom CSS.</span>
 ---
 
 ## ANÁLISE DO CENÁRIO ATUAL
