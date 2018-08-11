@@ -1,6 +1,8 @@
 
 ---?image=images/meta.png&size=auto 5%&position=top-left
-# Flux 
+layout : top-left
+
+# Electrolux – Sales Monitoring 
 
 An application architecture for React
 
