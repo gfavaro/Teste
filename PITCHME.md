@@ -1,15 +1,14 @@
-# Electrolux – Assessment BW
-
+# @title[Electrolux – Assessment BW]
 
 
 ---
 
 ## Agenda
-
+@color[23315a](
 1. Cenário Atual
 2. Recomendações
 3. Projetos
-
+)
 ---
 
 ## MOTIVADORES DO ASSESSMENT NO SAP BW
@@ -55,8 +54,10 @@ Análise realizada com o auxílio do consultor Carlos Souza:
 	- Retorno: 
 		- melhoria de performance;
 		- entendimento dos conceitos de BI, melhor utilização dos relatórios e analises self-service.
-		
----?image=images/bg_final.png
 	- Tempo de execução: 3 MESES
 	- Investimento: 185 K REAIS. 
+	
+	
+		
+---?image=images/bg_final.png
 	
