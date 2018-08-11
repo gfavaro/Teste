@@ -1,11 +1,10 @@
-# @title[Electrolux – Assessment BW]
+@title[Electrolux – Assessment BW]
 
 
 ---
 
 ## Agenda
-@color[23315a](
-1. Cenário Atual
+@color[23315a](1. Cenário Atual)
 2. Recomendações
 3. Projetos
 )
@@ -13,9 +12,9 @@
 
 ## MOTIVADORES DO ASSESSMENT NO SAP BW
 
-- Validar arquitetura e melhores práticas.
-- Problemas com a **PERFORMANCE** dos indicadores desenvolvidos.
-- **INSATISFAÇÃO** DA ÁREA DE NEGÓCIO.
+- @fa[star](Validar arquitetura e melhores práticas.)
+- @fa[clock](Problemas com a **PERFORMANCE** dos indicadores desenvolvidos.)
+- @fa[frown](**INSATISFAÇÃO** DA ÁREA DE NEGÓCIO.)
 
 ---
 
