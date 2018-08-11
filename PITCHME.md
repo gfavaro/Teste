@@ -25,6 +25,8 @@
 - **INSATISFAÇÃO** DA ÁREA DE NEGÓCIO
 <br>
 
++++
+
 - @fa[bar-chart](Bar Chart)
 - @fa[line-chart](Line Chart)
 - @fa[pie-chart](Pie Chart)
