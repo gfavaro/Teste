@@ -13,10 +13,15 @@
 ## MOTIVADORES DO ASSESSMENT NO SAP BW
 <br>
 @fa[star]
+<br>
 -Validar arquitetura e melhores práticas
+<br>
 @fa[clock]
+<br>
 -Problemas com a **PERFORMANCE** dos indicadores desenvolvidos
+<br>
 @fa[frown]
+<br>
 - **INSATISFAÇÃO** DA ÁREA DE NEGÓCIO
 <br>
 
