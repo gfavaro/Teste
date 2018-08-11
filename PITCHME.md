@@ -1,10 +1,10 @@
+
+---?image=imagens/meta.png&size=auto 5%&position=top
 # Flux 
 
 An application architecture for React
 
 
-@snap[north-west]
-![](images/meta.png)
 
 ---
 
