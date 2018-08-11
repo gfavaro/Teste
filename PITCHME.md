@@ -2,6 +2,8 @@
 
 An application architecture for React
 
+![Meta](./images/meta.png)
+
 ---
 
 ### Flux Design
