@@ -56,7 +56,7 @@ Análise realizada com o auxílio do consultor Carlos Souza:
 		- melhoria de performance;
 		- entendimento dos conceitos de BI, melhor utilização dos relatórios e analises self-service.
 		
----image=images/bg_final.png
+---?image=images/bg_final.png
 	- Tempo de execução: 3 MESES
 	- Investimento: 185 K REAIS. 
 	
