@@ -4,19 +4,22 @@
 ---
 
 ## Agenda
-@color[23315a](1. Cenário Atual)
+1. @color[23315a]Cenário Atual)
 2. Recomendações
 3. Projetos
-)
+
 ---
 
 ## MOTIVADORES DO ASSESSMENT NO SAP BW
 <br>
-- @fa[star](Validar arquitetura e melhores práticas)
-- @fa[clock](Problemas com a **PERFORMANCE** dos indicadores desenvolvidos)
-- @fa[frown](**INSATISFAÇÃO** DA ÁREA DE NEGÓCIO)
+@fa[star]
+-Validar arquitetura e melhores práticas
+@fa[clock]
+-Problemas com a **PERFORMANCE** dos indicadores desenvolvidos
+@fa[frown]
+- **INSATISFAÇÃO** DA ÁREA DE NEGÓCIO
 <br>
-<span class="fa-byline">With just one line of custom CSS.</span>
+
 ---
 
 ## ANÁLISE DO CENÁRIO ATUAL
