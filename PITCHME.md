@@ -4,7 +4,7 @@
 ---
 
 ## Agenda
-1. @color[23315a]Cenário Atual)
+1. @color[23315a(]Cenário Atual)
 2. Recomendações
 3. Projetos
 
@@ -25,6 +25,10 @@
 - **INSATISFAÇÃO** DA ÁREA DE NEGÓCIO
 <br>
 
+- @fa[bar-chart](Bar Chart)
+- @fa[line-chart](Line Chart)
+- @fa[pie-chart](Pie Chart)
+- @fa[area-chart](Area Chart)
 ---
 
 ## ANÁLISE DO CENÁRIO ATUAL
