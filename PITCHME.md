@@ -1,5 +1,5 @@
 
----?image=images/meta.png&size=auto 5%&position=top
+---?image=images/meta.png&size=auto 5%&position=top-left
 # Flux 
 
 An application architecture for React
