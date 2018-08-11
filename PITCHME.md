@@ -2,7 +2,9 @@
 
 An application architecture for React
 
-@size[10m]![Meta](./images/meta.png)
+
+@snap[north-west]
+![Meta](./images/meta.png&size=50%)
 
 ---
 
