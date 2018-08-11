@@ -4,7 +4,7 @@ An application architecture for React
 
 
 @snap[north-west]
-![Meta](./images/meta.png&size=50%)
+![](images/meta.png)
 
 ---
 
