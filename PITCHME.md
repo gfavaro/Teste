@@ -2,7 +2,7 @@
 
 An application architecture for React
 
-![Meta](./images/meta.png)
+@size[10m]![Meta](./images/meta.png)
 
 ---
 
